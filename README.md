@@ -1,8 +1,8 @@
 # Hytale Launcher Installer for GNU/Linux
 
 ## How to use
-`git clone https://github.com/SkeletonMan03/Hytale-Launcher-Linux-Installer.git`
-`cd Hytale-Launcher-Linux-Installer`
+`git clone https://github.com/SkeletonMan03/Hytale-Launcher-Linux-Installer.git`  
+`cd Hytale-Launcher-Linux-Installer`  
 `bash Install.sh`
 
 ## Why?
