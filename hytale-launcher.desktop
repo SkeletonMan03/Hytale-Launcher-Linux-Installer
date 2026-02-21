@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Hytale Launcher
-Exec=bash -c "WEBKIT_DISABLE_COMPOSITING_MODE=1 WEBKIT_DISABLE_DMABUF_RENDERER=1 /opt/hytale/hytale-launcher"
+Exec=bash -c "WEBKIT_DISABLE_COMPOSITING_MODE=1 /opt/hytale/hytale-launcher"
 Terminal=false
 Type=Application
 StartupWMClass=Hytale
