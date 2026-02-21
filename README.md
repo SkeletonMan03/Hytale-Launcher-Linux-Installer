@@ -1,9 +1,9 @@
 # Hytale Launcher Installer for GNU/Linux
 
 ## How to use
-`git clone https://github.com/SkeletonMan03/Hytale-Launcher-Linux-Installer.git`
-`cd Hytale-Launcher-Linux-Installer`
-`bash Install.sh`
+`git clone https://github.com/SkeletonMan03/Hytale-Launcher-Linux-Installer.git`  
+`cd Hytale-Launcher-Linux-Installer`  
+`bash Install.sh`  
 
 ## Why?
 I could not get the Flatpak provided from Hytale to launch my browser to let me log in.  
